@@ -19,11 +19,11 @@
 
 I am a Web Dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> enthusiast who is continuously learning and expanding my skills. My passion lies in building robust backend systems and harnessing the power of web tools to create useful applications.
 
-- :telescope: Currently, my primary focus is on honing my skills as a Software Engineer, where I contribute to the development of efficient and scalable programs.
+- :telescope: Currently building an audio player with electron-vite🎧💽
 
 - :seedling: Additionally, I explore various topics related to frontend and backend development, ML, and related technologies, aiming to share my knowledge and insights with the tech community.
 
-- :zap: During my leisure time, I make 3D models with Blender and also engage in problem-solving activities on platforms like HackerRank, constantly challenging myself to enhance my problem-solving skills. Or sometimes just play video games
+- :zap: During my leisure time, I make 3D models with Blender and also engage in problem-solving activities on platforms like HackerRank, constantly challenging myself to enhance my problem-solving skills or sometimes just play video games.
 
 I am always eager to learn and collaborate on exciting projects that involve backend development and ML. Feel free to reach out to me to discuss any opportunities or share ideas. Let's build innovative solutions together!
 
